@@ -2,3 +2,4 @@
 ## Resumen de GIT
 git init: sirve para inicializar un repositorio
 git config --global -- replace-all user.name 
+
