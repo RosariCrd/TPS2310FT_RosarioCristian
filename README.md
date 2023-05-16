@@ -21,6 +21,7 @@ git config --global -- replace-all user.name
 # [Curso de Pensamiento Lógico: Lenguajes de Programación](https://platzi.com/cursos/pensamiento-logico-lenguajes/)
 
 # Tipo de Datos  
-### Texto: Estan compuestos por letras o caracteres las cuales nuncas estan organizadas.
+### Texto: Estan compuestos por letras o caracteres las cuales casi nunca estan organizadas.
+
 
 
