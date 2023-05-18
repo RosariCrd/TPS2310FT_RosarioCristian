@@ -94,18 +94,24 @@ git config --global -- replace-all user.name
 ### if: Se una para toamr desiciones, este evalúa una operacion lógica, es decir una expresion que de como resultado True o False. Si la condición devuelve un true se ejecutaran ciertas instrucciones
 
 ### Switch: switch es otra forma de evaluar condiciones, la diferencia con if es que las condiciones deben ser iguales a un caso o valor en específico
+
 ## Reto 5; Algoritmos con variables y condicionales
 
 ## Ciclos
 
-### Es una secuencia de instrucciones de código que se ejecuta repetidas veces, hasta que la condición asignada a dicho bucle deja de cumplirse. 
+### Es una secuencia de instrucciones de código que se ejecuta repetidas veces, hasta que la condición asignada a dicho bucle deja de cumplirse
 
 ## For
-### conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones.
+
+### conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones
+
 ## While
+
 ### no conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones. Aunque también se puede acoplar para que realice un determinado número de repeticiones
-## Do While 
-### Un ciclo do-while sigue la misma tendencia que un while, la diferencia está en que do-while ejecuta el bloque de código una vez y después evalúa la condición. Si la condición es verdadera, vuelve a repetir el código.
+
+## Do While
+
+### Un ciclo do-while sigue la misma tendencia que un while, la diferencia está en que do-while ejecuta el bloque de código una vez y después evalúa la condición. Si la condición es verdadera, vuelve a repetir el código
 
 ## Reto 6: Algoritmos con ciclos
 
@@ -124,7 +130,3 @@ git config --global -- replace-all user.name
 # Proximos pasos
 
 ## Toma el curso de pensamiento logico:Lenguaje de programacion
-
-
-
-
