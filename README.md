@@ -91,15 +91,15 @@ git config --global -- replace-all user.name
 
 ## Condicionales
 
-### if: Se una para toamr desiciones, este evalúa una operacion lógica, es decir una expresion que de como resultado True o False. Si la condición devuelve un true se ejecutaran ciertas instrucciones
+### if: Se una para toamr desiciones, este evalúa una operacion lógica, es decir una expresion que de como resultado True o False. Si la condición devuelve un true se ejecutaran ciertas instrucciones.
 
-### Switch: switch es otra forma de evaluar condiciones, la diferencia con if es que las condiciones deben ser iguales a un caso o valor en específico
+### Switch: switch es otra forma de evaluar condiciones, la diferencia con if es que las condiciones deben ser iguales a un caso o valor en específico.
 
 ## Reto 5; Algoritmos con variables y condicionales
 
 ## Ciclos
 
-### Es una secuencia de instrucciones de código que se ejecuta repetidas veces, hasta que la condición asignada a dicho bucle deja de cumplirse
+### Es una secuencia de instrucciones de código que se ejecuta repetidas veces, hasta que la condición asignada a dicho bucle deja de cumplirse.
 
 ## For
 
