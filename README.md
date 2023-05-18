@@ -103,15 +103,15 @@ git config --global -- replace-all user.name
 
 ## For
 
-### conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones
+### conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones.
 
 ## While
 
-### no conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones. Aunque también se puede acoplar para que realice un determinado número de repeticiones
+### no conocemos la cantidad de veces que la estructura repetirá una o varias instrucciones. Aunque también se puede acoplar para que realice un determinado número de repeticiones.
 
 ## Do While
 
-### Un ciclo do-while sigue la misma tendencia que un while, la diferencia está en que do-while ejecuta el bloque de código una vez y después evalúa la condición. Si la condición es verdadera, vuelve a repetir el código
+### Un ciclo do-while sigue la misma tendencia que un while, la diferencia está en que do-while ejecuta el bloque de código una vez y después evalúa la condición. Si la condición es verdadera, vuelve a repetir el código.
 
 ## Reto 6: Algoritmos con ciclos
 
@@ -119,7 +119,7 @@ git config --global -- replace-all user.name
 
 ## Reto 7: Algoritmos con manejos de errores
 
-# Funciones
+# Funciones 
 
 ## ¿Que que es una función en programación?
 
@@ -129,4 +129,6 @@ git config --global -- replace-all user.name
 
 # Proximos pasos
 
-## Toma el curso de pensamiento logico:Lenguaje de programacion
+## Toma el curso de pensamiento logico:Lenguaje de programacion.
+
+
