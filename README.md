@@ -113,9 +113,7 @@ git config --global -- replace-all user.name
 
 ### Un ciclo do-while sigue la misma tendencia que un while, la diferencia está en que do-while ejecuta el bloque de código una vez y después evalúa la condición. Si la condición es verdadera, vuelve a repetir el código.
 
-## Reto 6: Algoritmos con ciclos
-
-## Try Catch
+## Reto 6: Algoritmos con ciclos.
 
 ## Reto 7: Algoritmos con manejos de errores
 
