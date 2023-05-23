@@ -61,7 +61,7 @@ git config --global -- replace-all user.name
 
 ## Resumen: Es un ciclo que apenas llega al 59 se reinicia el segundo y aumenta el minuto luego que este M=59 S=59 Se aumentara el H=1
 
-# EStructura de control
+# Estructura de control
 
 ### Son las que no permite tomar decisiones y realizar un proceso repetidas veces. Se trata de estructuras muy importantes, Ya que son las encargadas de controlar el flujo de un programa
 
@@ -97,7 +97,7 @@ git config --global -- replace-all user.name
 
 ## Reto 5; Algoritmos con variables y condicionales
 
-## Ciclos
+## Ciclicos
 
 ### Es una secuencia de instrucciones de código que se ejecuta repetidas veces, hasta que la condición asignada a dicho bucle deja de cumplirse.
 
