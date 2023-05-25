@@ -201,7 +201,7 @@ git config --global -- replace-all user.name
 
 #### Binario a Decimal: Se cogen los decimales del número binario de derecha a izquierda, se colocan en forma vertical y cada dígito se multiplica x2, cada una de las unidades del sistema binario será la potencia del 2 que le pertenece, Se hacen las operaciones de las potencias, Los resultados de la potencia se multiplican por el decimal que lo compone, Se suman los productos de las multiplicaciones y el resultado es el número decimal equivalente al binario que se está convirtiendo.
 
-### Suma y resta de binarios.
+### Suma y resta de binarios
 
 #### 
 
