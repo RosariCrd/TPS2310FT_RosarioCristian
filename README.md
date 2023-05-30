@@ -212,12 +212,6 @@ git config --global -- replace-all user.name
 #### Multiplicación: La multiplicación en el sistema binario se puede hacer de la misma forma a la que se hace en el sistema decimal, esto consiste en multiplicar el multiplicando por cada uno de los dígitos del multiplicador y luego se realiza la suma de los productos.
 
 #### División: Se identificó el dividendo y el divisor
-Dividendo: 10111 divisor: 0
-
-Se respondió a la pregunta, ¿Es el divisor menor que el dividendo?, cuando la respuesta fue que no, se colocó un 0 en el cociente y sé bajo el siguiente dígito del dividendo. Cuando la respuesta fue, que es mayor o que es igual, se realizó una resta.
-Este segundo paso se realizó de forma iterativa hasta terminar de bajar todos los números del dividendo.
-
-Al final del proceso se obtuvo en él cociente el número 010100, por lo que el resultado de dividir 10110 entre 10 es 1011, esto se debe a que el primer cero que aparece en el cociente se ignora.
 
 ## Operadores
 
