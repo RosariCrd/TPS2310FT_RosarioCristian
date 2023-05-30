@@ -239,4 +239,4 @@ git config --global -- replace-all user.name
 
 ### Próximos pasos
 
-## Tema el Curso de Pensamiento Lógico: Tipos de Datos y Estructuras de Control
+## Tema el Curso de Pensamiento Lógico: Tipos de Datos y Estructuras de Control 
