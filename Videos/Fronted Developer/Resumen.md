@@ -2,7 +2,7 @@
 
 ## Introducción al desarrollo frontend
 
-- ### Inicia tu camino como frontend developer
+- ### Inicia tu camino como frontend developer 
 
 - ### ¿Qué es HTML y CSS? ¿Para qué sirven?
 
