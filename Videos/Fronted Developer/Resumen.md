@@ -6,6 +6,27 @@
 
 - ### ¿Qué es HTML y CSS? ¿Para qué sirven?
 
+#### ¿Qué es HTML?
+#### El Lenguaje de Marcado de Hipertexto o HTML por sus siglas en inglés (HyperText Markup Language) es el código para construir la estructura de una página web.
+
+#### Representación del lenguaje de marcado HTML
+#### En otras palabras, HTML es el esqueleto con el cual definimos cada elemento que compone la página web, así como: enlaces, párrafos, títulos, botones, imágenes, formularios, entre otros.
+
+#### ¿Qué es CSS?
+#### El lenguaje de Hojas de Estilos en Cascada o CSS por sus siglas en inglés (Cascade Style Sheets) es el código para describir la presentación de los elementos de la página web, los que definimos con HTML.
+
+#### HTML
+
+#### HTML: lenguaje de marcado de hipertexto
+
+#### HTML nos sirve para estructura nuestra pagina web.
+
+#### CSS
+
+#### CSS: hojas de estilo en cascada
+
+#### CSS: nos permite estilizar nuestros textos, imágenes, etc.
+
 - ### Motores de render: de archivos a píxeles
 
 - ### Acelera tu carrera profesional con más de 24 Clases del Curso de Frontend Developer
