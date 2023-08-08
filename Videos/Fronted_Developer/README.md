@@ -68,7 +68,12 @@
 
 #### Representación de los atributos de una etiqueta HTML Qué son los elementos vacíos Los elementos vacíos son aquellos que únicamente se representan en una etiqueta de apertura.
 
+#### Los atributos HTML son propiedades en la etiqueta de apertura que manejan el comportamiento del elemento. Su valor está envuelto en comillas.
+
 - ### ¿Qué es HTML semántico?
+
+#### El HTML semántico consiste en que cada elemento tenga su propia etiqueta que lo defina correctamente.
+
 
 - ### Etiquetas de HTML más usadas
 
