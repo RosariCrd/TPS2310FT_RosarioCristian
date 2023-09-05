@@ -77,11 +77,39 @@
 
 - ### Etiquetas de HTML más usadas
 
+- #### 1. `<html>`: define el comienzo de un documento HTML.
+
+#### 2. `<head>`: define la sección de encabezado del documento HTML.
+
+#### 3. `<title>`: define el título del documento HTML.
+
+#### 4. `<body>`: define el cuerpo del documento HTML.
+
+#### 5. `<p>`: define un párrafo.
+
+#### 6. `<img>`: define una imagen.
+
+#### 7. `<a>`: define un enlace.
+
+#### 8. `<ul>` y `<li>`: definir una lista con viñetas.
+
+#### 9. `<ol>` y `<li>`: definir una lista numerada.
+
+#### 10. `<div>`: define una sección de contenido para aplicar estilos en CSS.
+
+ #### Estas son solo algunas de las etiquetas HTML más comunes, pero hay muchas más que se utilizan en páginas web para definir diferentes elementos y estructuras de
+
 ## Maquetación con CSS
 
-- ### Auetación con CSS
-
 - ### Anatomía de una declaración CSS: selectores, propiedades y valores
+
+- #### Una declaración de CSS es un bloque que especifica el conjunto de estilos que se añadirán a un elemento HTML. Su estructura contiene lo siguiente:
+
+#### Selector: define el elemento o conjunto de elementos a los cuales se añadirán los estilos.
+
+#### Propiedad: es el nombre del estilo de CSS.
+
+#### Valor: es el valor que tomará la propiedad.
 
 - ### Tipos de selectores: básicos y combinadores
 
